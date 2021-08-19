@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xephire
+- 👋 Hi, I’m Gabriel Pery (@Xephire)
 - 👀 I’m interested in programming and software design
 - 🌱 I’m currently learning Python
 - 📫 How to reach me gabrielperyy@gmail.com
