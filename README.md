@@ -1,6 +1,6 @@
 - Hi, I’m Gabriel Pery (@Xephire)
 - I’m interested in programming and software design
-- I’m currently learning Python
+- I’m currently learning Python, going on 3 years
 - How to reach me - gabrielperydev@gmail.com
 
 <!---
