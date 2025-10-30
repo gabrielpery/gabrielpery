@@ -1,8 +1,4 @@
-- I’m interested in programming and software design
-- I’m currently learning Python, going on 3 years
+- I’m interested in software development
+- I’m currently working on my Python proficiency, going on 5 years.
 - How to reach me - gabrielperydev@gmail.com
 
-<!---
-Xephire/Xephire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
