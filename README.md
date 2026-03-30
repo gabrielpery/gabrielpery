@@ -1,2 +1,1 @@
-- Currently working on Python proficiency, going on 7 years.
-- How to reach me - gabrielperydev@gmail.com
+
